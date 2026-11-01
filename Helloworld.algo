@@ -14,5 +14,6 @@ Algo HelloWorld {
         Modifier le fond d'écran en vert
         Afficher la fenêtre
         Modification Temporaire
+        Modification Temporaire Locale
     }
 }
