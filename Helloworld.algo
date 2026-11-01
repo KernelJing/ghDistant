@@ -15,5 +15,6 @@ Algo HelloWorld {
         Afficher la fenêtre
         Modification Temporaire
         Modification Temporaire Locale
+        Ajout du label Date
     }
 }
